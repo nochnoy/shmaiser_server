@@ -73,3 +73,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Visual Studio Code
+# =========================
+
+.vscode/*
+src/.vs/*
